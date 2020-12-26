@@ -1,5 +1,6 @@
 # 2D Minecraft Clone ⛏️️🧱
-This is a self-development project for me to learn some new concepts like procedural terrain generation and creating & optimizing infinite worlds. I want to make this clone similar to the original game as much as I can. (Don't mind the spaghetti code, it will improve as I continue developing the game)
+This is a self-development project for me to learn some new concepts like procedural terrain generation and creating & optimizing infinite worlds. I want to make this clone similar to the original game as much as I can. (Don't mind the spaghetti code, it will improve as I continue developing the game) \
+![screenshot](https://github.com/kadir014/2d-minecraft-clone/blob/main/screenshot.png)
 
 ## Installing & Running
 You can just download the `src` folder and run `main.py`
