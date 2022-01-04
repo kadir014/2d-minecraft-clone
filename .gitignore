@@ -1,0 +1,12 @@
+# VSCode stuff
+.vscode/
+2d-minecraft-clone-ws.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+*.manifest
+*.spec
